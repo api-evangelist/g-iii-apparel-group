@@ -1,11 +1,32 @@
-# G-III Apparel Group
+# G-III Apparel Group (g-iii-apparel-group)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for G-III Apparel Group.
+G-III Apparel Group is a designer, manufacturer, and marketer of branded apparel, accessories, and team sports products owning and licensing brands such as DKNY, Donna Karan, Calvin Klein, Tommy Hilfiger, and Karl Lagerfeld Paris.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/g-iii-apparel-group/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- Apparel, Fashion, Retail
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Check back for updates.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.g-iii-apparel-group.com)
+- [Website](https://www.g-iii.com)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
