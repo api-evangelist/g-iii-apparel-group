@@ -1,7 +1,9 @@
 ---
 title: G-III Apparel Group's Data-Driven Success Story
 url: https://www.sdggroup.com/en-us/success-stories/g-iii-apparel
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"G-III Apparel Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

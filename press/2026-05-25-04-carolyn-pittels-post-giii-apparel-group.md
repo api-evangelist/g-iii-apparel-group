@@ -1,7 +1,9 @@
 ---
 title: Carolyn Pittel's Post - GIII Apparel Group
 url: https://www.linkedin.com/posts/carolynpittel_g-iii-apparel-group-signs-definitive-agreement-activity-7461397030934933504-6X4y
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"G-III Apparel Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
